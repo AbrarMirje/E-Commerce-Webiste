@@ -1,0 +1,12 @@
+
+INSERT INTO Product (id, name, description, brand, price, category, release_date, available, quantity) VALUES
+                                                                                                           (1, 'Smartphone X', 'Latest model with advanced features', 'TechBrand', 699.99, 'Electronics', '2024-01-10', true, 50),
+                                                                                                           (2, 'Wireless Headphones', 'Noise-cancelling over-ear headphones', 'SoundBrand', 199.99, 'Audio', '2023-12-15', true, 100),
+                                                                                                           (3, '4K Television', 'Ultra HD Smart TV with HDR', 'ViewBrand', 999.99, 'Electronics', '2024-03-20', true, 30),
+                                                                                                           (4, 'Laptop Pro', 'High-performance laptop for professionals', 'ComputeBrand', 1299.99, 'Computers', '2024-02-05', true, 20),
+                                                                                                           (5, 'Smartwatch Series 5', 'Fitness tracker with multiple health features', 'TechBrand', 249.99, 'Wearables', '2023-11-01', true, 70),
+                                                                                                           (6, 'Bluetooth Speaker', 'Portable speaker with high-quality sound', 'SoundBrand', 89.99, 'Audio', '2024-04-15', true, 150),
+                                                                                                           (7, 'Gaming Console', 'Next-gen console with immersive graphics', 'GameBrand', 499.99, 'Gaming', '2023-09-25', true, 25),
+                                                                                                           (8, 'Digital Camera', 'High-resolution camera for professional photography', 'PhotoBrand', 799.99, 'Photography', '2024-06-10', true, 15),
+                                                                                                           (9, 'Tablet Plus', 'Lightweight tablet with powerful processor', 'TechBrand', 599.99, 'Tablets', '2024-05-20', true, 40),
+                                                                                                           (10, 'E-reader', 'Portable e-reader with adjustable lighting', 'ReadBrand', 129.99, 'Books', '2023-10-30', true, 60);
